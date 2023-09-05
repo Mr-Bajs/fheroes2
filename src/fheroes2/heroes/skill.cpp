@@ -511,7 +511,7 @@ std::string Skill::Secondary::GetDescription( const Heroes & hero ) const
             str = _( "%{skill} gives the hero a %{count} percent chance to learn any given 1st or 2nd level spell that is cast by the enemy during combat." );
             break;
         case Level::ADVANCED:
-            str = _( "%{skill} gives the hero a %{count} percent chance to learn any given 3rd level spell (or below) that is cast by the enemy during combat."" );
+            str = _( "%{skill} gives the hero a %{count} percent chance to learn any given 3rd level spell (or below) that is cast by the enemy during combat." );
             break;
         case Level::EXPERT:
             str = _( "%{skill} gives the hero a %{count} percent chance to learn any given 4th level spell (or below) that is cast by the enemy during combat." );
