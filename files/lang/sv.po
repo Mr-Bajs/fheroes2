@@ -3911,13 +3911,13 @@ msgstr ""
 "Används för att placera Rikesföremål (städer, slott och hjältar) på kartan."
 
 msgid "Monsters Mode"
-msgstr "Varelser"
+msgstr "Varelseläge"
 
 msgid "Used to place monsters on the map."
-msgstr "Används för att placera en grupp varelser på kartan."
+msgstr "Används för att placera varelser på kartan."
 
 msgid "Allows you to draw streams by clicking and dragging."
-msgstr "Används för att dra älvar genom att klicka och dra."
+msgstr "Används för att dra floder genom att klicka och dra."
 
 msgid "Stream Mode"
 msgstr "Flodläge"
